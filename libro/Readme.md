@@ -1,11 +1,9 @@
 # [Título del libro]
-- __Autor__: [Autor del libro]
-- __Año de publicación__: [Año de publicación]
+- __Autor__: C.M.Kosemen
+- __Año de publicación__: 2006
 
 ## Sinopsi
-[Sinopsi del libro]
+Crónica de mil millones de años de las miríadas de especies y variadas fortunas del hombre.
 
 ## Géneros
-- [Género 1]
-- [Género 2]
-- ...
+- Ciencia Ficción
